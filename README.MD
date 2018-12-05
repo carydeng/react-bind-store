@@ -1,0 +1,1 @@
+### A simple shared store for react.
