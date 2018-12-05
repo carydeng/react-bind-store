@@ -1,0 +1,27 @@
+{
+  "name": "react-bind-store",
+  "version": "0.1.0",
+  "description": "A simple shared store for react.",
+  "license": "MIT",
+  "repository": "carydeng/react-bind-store",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/index.js -d dist"
+  },
+  "keywords": [
+    "react",
+    "shared",
+    "store",
+    "state"
+  ],
+  "author": "jiayuandeng0109@yahoo.com",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
