@@ -1,5 +1,7 @@
 # react-bind-store
- 
+
+[![npm package](https://img.shields.io/npm/v/react-bind-store/latest.svg)](https://www.npmjs.com/package/react-bind-store)
+
 A simple shared store for react.
 
 ## Installation
