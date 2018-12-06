@@ -1,4 +1,4 @@
-## react-bind-store
+# react-bind-store
  
 A simple shared store for react.
 
